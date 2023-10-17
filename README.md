@@ -17,3 +17,7 @@
 Alicação feita em conjunto com video no YouTube do canal: [Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador)
 <br>
 Repositório no GitHub do criador do projeto: https://github.com/devfraga/gerador-senha-youtube
+
+## 📄 License
+Este projeto está sob a licença [MIT](LICENSE.txt)<br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
